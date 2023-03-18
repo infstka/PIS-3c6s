@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

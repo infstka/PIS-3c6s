@@ -1,0 +1,177 @@
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\lab1.dll.config
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\lab1.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\lab1.pdb
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csc.exe
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csc.exe.config
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csc.rsp
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csi.exe
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csi.exe.config
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\csi.rsp
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.AppContext.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Console.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.IO.Compression.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Net.Http.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.ValueTuple.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\vbc.exe
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\vbc.exe.config
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\vbc.rsp
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\VBCSCompiler.exe
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\obj\Debug\lab1.dll
+C:\Users\thesi\Desktop\6\ПИС\Лабки\lab1\lab1\obj\Debug\lab1.pdb
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\lab1.dll.config
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\lab1.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\lab1.pdb
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csc.exe
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csc.exe.config
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csc.rsp
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csi.exe
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csi.exe.config
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\csi.rsp
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.AppContext.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Collections.Immutable.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Console.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Globalization.Calendars.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.IO.Compression.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.IO.FileSystem.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Net.Http.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Net.Sockets.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Reflection.Metadata.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.ValueTuple.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Xml.XPath.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\vbc.exe
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\vbc.exe.config
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\vbc.rsp
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\VBCSCompiler.exe
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\roslyn\VBCSCompiler.exe.config
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Debug\lab1.csproj.CopyComplete
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Debug\lab1.dll
+D:\BSTU\ще нашел\PIS\PIS_Labs_6sem-main\PIS_Labs_6sem-main\Лабораторная работа 1\lab1\obj\Debug\lab1.pdb
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\LR1.dll.config
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\LR1.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\LR1.pdb
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csc.exe
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csc.exe.config
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csc.rsp
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csi.exe
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csi.exe.config
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\csi.rsp
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.AppContext.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Collections.Immutable.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Console.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Globalization.Calendars.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.IO.Compression.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.IO.FileSystem.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Net.Http.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Net.Sockets.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Reflection.Metadata.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.ValueTuple.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Xml.XPath.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\vbc.exe
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\vbc.exe.config
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\vbc.rsp
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\VBCSCompiler.exe
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\roslyn\VBCSCompiler.exe.config
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BSTU\PIS-3c6s\LR1\LR1\obj\Debug\LR1.csproj.AssemblyReference.cache
+D:\BSTU\PIS-3c6s\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+D:\BSTU\PIS-3c6s\LR1\LR1\obj\Debug\LR1.csproj.CopyComplete
+D:\BSTU\PIS-3c6s\LR1\LR1\obj\Debug\LR1.dll
+D:\BSTU\PIS-3c6s\LR1\LR1\obj\Debug\LR1.pdb
