@@ -1,0 +1,44 @@
+﻿@using LR3.Models;
+@{
+    Layout = null;
+    List<Telephon_DB> book = ViewBag.TelephoneBook;
+}
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        /*Представление(View) отвечает за отображение данных модели пользователю, реагируя на изменения модел*/
+        a {
+            display: inline; /* Отображать как строчный элемент */
+            margin-right: 5px; /* Отступ слева */
+            background-color: lightgoldenrodyellow;
+            border: 1px solid black; /* Рамка вокруг текста */
+            padding: 3px; /* Поля вокруг текста */
+        }
+    </style>
+</head>
+<body>
+    <div>
+        @foreach (Telephon_DB row in book)
+        {
+            <div>
+                @row.Id&ensp;
+                @row.Surname&ensp;
+                @row.TelephoneNumber
+            </div>
+        <br />
+        <br />
+    }
+        <p>
+            <a href="~/Dict/Add">Add</a>
+            <a href="~/Dict/Update">Update</a>
+            <a href="~/Dict/Delete">Delete</a>
+        </p>
+    </div>
+</body>
+</html>

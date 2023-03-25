@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <form method="post" action="~/Dict/UpdateSave">
+            <label>ID</label>
+            <br />
+            <br />
+            <input type="number" min="1" step="1" name="id" id="id" />
+            <br />
+            <br />
+            <label>Новое имя/псевдоним</label>
+            <br />
+            <br />
+            <input type="text" name="surname" id="surname" />
+            <br />
+            <br />
+            <label>Новый номер телефона</label>
+            <br />
+            <br />
+            <input type="tel" name="phoneNumber" id="phoneNumber" placeholder="Номер телефона" />
+            <br />
+            <br />
+            <input type="submit" value="Подтвердить" />
+        </form>
+    </div>
+</body>
+</html>
