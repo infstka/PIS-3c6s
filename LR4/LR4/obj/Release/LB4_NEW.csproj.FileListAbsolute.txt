@@ -1,0 +1,168 @@
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\LB4_NEW.dll.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\LB4_NEW.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\LB4_NEW.pdb
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csc.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csc.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csc.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csi.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csi.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\csi.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.AppContext.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Console.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Net.Http.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\vbc.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\vbc.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\vbc.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\Antlr3.Runtime.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\EntityFramework.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Helpers.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Mvc.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Razor.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\Antlr3.Runtime.pdb
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\EntityFramework.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Razor.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Helpers.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\System.Web.Mvc.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.AssemblyReference.cache
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.CoreCompileInputs.cache
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.CopyComplete
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.pdb
+C:\LB4_NEW\LB4_NEW\bin\LB4_NEW.dll.config
+C:\LB4_NEW\LB4_NEW\bin\LB4_NEW.dll
+C:\LB4_NEW\LB4_NEW\bin\LB4_NEW.pdb
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csc.exe
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csc.exe.config
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csc.rsp
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csi.exe
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csi.exe.config
+C:\LB4_NEW\LB4_NEW\bin\roslyn\csi.rsp
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LB4_NEW\LB4_NEW\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.AppContext.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Collections.Immutable.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Console.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Globalization.Calendars.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.Compression.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.FileSystem.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Net.Http.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Net.Sockets.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.ValueTuple.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XPath.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LB4_NEW\LB4_NEW\bin\roslyn\vbc.exe
+C:\LB4_NEW\LB4_NEW\bin\roslyn\vbc.exe.config
+C:\LB4_NEW\LB4_NEW\bin\roslyn\vbc.rsp
+C:\LB4_NEW\LB4_NEW\bin\roslyn\VBCSCompiler.exe
+C:\LB4_NEW\LB4_NEW\bin\roslyn\VBCSCompiler.exe.config
+C:\LB4_NEW\LB4_NEW\bin\Antlr3.Runtime.dll
+C:\LB4_NEW\LB4_NEW\bin\EntityFramework.dll
+C:\LB4_NEW\LB4_NEW\bin\EntityFramework.SqlServer.dll
+C:\LB4_NEW\LB4_NEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LB4_NEW\LB4_NEW\bin\Microsoft.Web.Infrastructure.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Helpers.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Mvc.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Razor.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Deployment.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.dll
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Razor.dll
+C:\LB4_NEW\LB4_NEW\bin\Antlr3.Runtime.pdb
+C:\LB4_NEW\LB4_NEW\bin\EntityFramework.xml
+C:\LB4_NEW\LB4_NEW\bin\EntityFramework.SqlServer.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Razor.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Deployment.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Webpages.Razor.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Helpers.xml
+C:\LB4_NEW\LB4_NEW\bin\System.Web.Mvc.xml
+C:\LB4_NEW\LB4_NEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Razor.resources.dll
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.resources.dll
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Helpers.resources.dll
+C:\LB4_NEW\LB4_NEW\bin\ru\System.Web.Mvc.resources.dll
+C:\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.AssemblyReference.cache
+C:\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.CoreCompileInputs.cache
+C:\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.csproj.CopyComplete
+C:\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.dll
+C:\LB4_NEW\LB4_NEW\obj\Release\LB4_NEW.pdb

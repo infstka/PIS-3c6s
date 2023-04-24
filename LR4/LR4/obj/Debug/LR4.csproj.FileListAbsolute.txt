@@ -1,0 +1,420 @@
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\LR4.dll.config
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\LR4.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\LR4.pdb
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csc.exe
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csc.exe.config
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csc.rsp
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csi.exe
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csi.exe.config
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\csi.rsp
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.AppContext.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Collections.Immutable.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Console.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Globalization.Calendars.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.IO.Compression.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.IO.FileSystem.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Net.Http.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Net.Sockets.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Reflection.Metadata.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.ValueTuple.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Xml.XPath.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\vbc.exe
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\vbc.exe.config
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\vbc.rsp
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\VBCSCompiler.exe
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\roslyn\VBCSCompiler.exe.config
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\EntityFramework.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\EntityFramework.SqlServer.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\Microsoft.Web.Infrastructure.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Helpers.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Mvc.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Razor.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.Deployment.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.Razor.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\EntityFramework.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\EntityFramework.SqlServer.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Razor.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.Deployment.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Webpages.Razor.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Helpers.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\System.Web.Mvc.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Razor.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Webpages.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Helpers.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\ru\System.Web.Mvc.resources.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\LabsFolder\InternetServersLabs\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+D:\LabsFolder\InternetServersLabs\LR4\LR4\obj\Debug\LR4.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\obj\Debug\LR4.pdb
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\Antlr3.Runtime.dll
+D:\LabsFolder\InternetServersLabs\LR4\LR4\bin\Antlr3.Runtime.pdb
+D:\LabsFolder\InternetServersLabs\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\LR4.dll.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\LR4.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\LR4.pdb
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csc.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csc.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csc.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csi.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csi.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\csi.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.AppContext.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Console.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Net.Http.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\vbc.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\vbc.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\vbc.rsp
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\Antlr3.Runtime.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\EntityFramework.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\EntityFramework.SqlServer.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Helpers.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Mvc.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Razor.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\Antlr3.Runtime.pdb
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\EntityFramework.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\EntityFramework.SqlServer.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Razor.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Helpers.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\System.Web.Mvc.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\obj\Debug\LR4.dll
+C:\Users\Dora Ritchik\Desktop\3course\Программирование интернет серверов\InternetServersLabs-main\LR4\LR4\obj\Debug\LR4.pdb
+C:\LR4\LR4\bin\LR4.dll.config
+C:\LR4\LR4\bin\LR4.dll
+C:\LR4\LR4\bin\LR4.pdb
+C:\LR4\LR4\bin\roslyn\csc.exe
+C:\LR4\LR4\bin\roslyn\csc.exe.config
+C:\LR4\LR4\bin\roslyn\csc.rsp
+C:\LR4\LR4\bin\roslyn\csi.exe
+C:\LR4\LR4\bin\roslyn\csi.exe.config
+C:\LR4\LR4\bin\roslyn\csi.rsp
+C:\LR4\LR4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LR4\LR4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LR4\LR4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LR4\LR4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\LR4\LR4\bin\roslyn\System.AppContext.dll
+C:\LR4\LR4\bin\roslyn\System.Collections.Immutable.dll
+C:\LR4\LR4\bin\roslyn\System.Console.dll
+C:\LR4\LR4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\LR4\LR4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LR4\LR4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LR4\LR4\bin\roslyn\System.Globalization.Calendars.dll
+C:\LR4\LR4\bin\roslyn\System.IO.Compression.dll
+C:\LR4\LR4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\LR4\LR4\bin\roslyn\System.IO.FileSystem.dll
+C:\LR4\LR4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LR4\LR4\bin\roslyn\System.Net.Http.dll
+C:\LR4\LR4\bin\roslyn\System.Net.Sockets.dll
+C:\LR4\LR4\bin\roslyn\System.Reflection.Metadata.dll
+C:\LR4\LR4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\LR4\LR4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LR4\LR4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LR4\LR4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LR4\LR4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LR4\LR4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LR4\LR4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\LR4\LR4\bin\roslyn\System.ValueTuple.dll
+C:\LR4\LR4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LR4\LR4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LR4\LR4\bin\roslyn\System.Xml.XPath.dll
+C:\LR4\LR4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LR4\LR4\bin\roslyn\vbc.exe
+C:\LR4\LR4\bin\roslyn\vbc.exe.config
+C:\LR4\LR4\bin\roslyn\vbc.rsp
+C:\LR4\LR4\bin\roslyn\VBCSCompiler.exe
+C:\LR4\LR4\bin\roslyn\VBCSCompiler.exe.config
+C:\LR4\LR4\bin\Antlr3.Runtime.dll
+C:\LR4\LR4\bin\EntityFramework.dll
+C:\LR4\LR4\bin\EntityFramework.SqlServer.dll
+C:\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LR4\LR4\bin\Microsoft.Web.Infrastructure.dll
+C:\LR4\LR4\bin\System.Web.Helpers.dll
+C:\LR4\LR4\bin\System.Web.Mvc.dll
+C:\LR4\LR4\bin\System.Web.Razor.dll
+C:\LR4\LR4\bin\System.Web.Webpages.Deployment.dll
+C:\LR4\LR4\bin\System.Web.Webpages.dll
+C:\LR4\LR4\bin\System.Web.Webpages.Razor.dll
+C:\LR4\LR4\bin\Antlr3.Runtime.pdb
+C:\LR4\LR4\bin\EntityFramework.xml
+C:\LR4\LR4\bin\EntityFramework.SqlServer.xml
+C:\LR4\LR4\bin\System.Web.Razor.xml
+C:\LR4\LR4\bin\System.Web.Webpages.xml
+C:\LR4\LR4\bin\System.Web.Webpages.Deployment.xml
+C:\LR4\LR4\bin\System.Web.Webpages.Razor.xml
+C:\LR4\LR4\bin\System.Web.Helpers.xml
+C:\LR4\LR4\bin\System.Web.Mvc.xml
+C:\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LR4\LR4\bin\ru\System.Web.Razor.resources.dll
+C:\LR4\LR4\bin\ru\System.Web.Webpages.resources.dll
+C:\LR4\LR4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\LR4\LR4\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\LR4\LR4\bin\ru\System.Web.Helpers.resources.dll
+C:\LR4\LR4\bin\ru\System.Web.Mvc.resources.dll
+C:\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+C:\LR4\LR4\obj\Debug\LR4.dll
+C:\LR4\LR4\obj\Debug\LR4.pdb
+C:\Users\macbook\Desktop\LR4\LR4\bin\LR4.dll.config
+C:\Users\macbook\Desktop\LR4\LR4\bin\LR4.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\LR4.pdb
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csc.exe
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csc.exe.config
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csc.rsp
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csi.exe
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csi.exe.config
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\csi.rsp
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.AppContext.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Console.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.IO.Compression.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Net.Http.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.ValueTuple.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\vbc.exe
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\vbc.exe.config
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\vbc.rsp
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\VBCSCompiler.exe
+C:\Users\macbook\Desktop\LR4\LR4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macbook\Desktop\LR4\LR4\bin\Antlr3.Runtime.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\EntityFramework.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\EntityFramework.SqlServer.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Helpers.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Mvc.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Razor.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.Deployment.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.Razor.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\Antlr3.Runtime.pdb
+C:\Users\macbook\Desktop\LR4\LR4\bin\EntityFramework.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\EntityFramework.SqlServer.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Razor.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.Deployment.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Webpages.Razor.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Helpers.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\System.Web.Mvc.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\macbook\Desktop\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+C:\Users\macbook\Desktop\LR4\LR4\obj\Debug\LR4.dll
+C:\Users\macbook\Desktop\LR4\LR4\obj\Debug\LR4.pdb
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\LR4.dll.config
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\LR4.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\LR4.pdb
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csc.exe
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csc.exe.config
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csc.rsp
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csi.exe
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csi.exe.config
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\csi.rsp
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.AppContext.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Collections.Immutable.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Console.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Globalization.Calendars.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.IO.Compression.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.IO.FileSystem.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Net.Http.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Net.Sockets.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Reflection.Metadata.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.ValueTuple.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Xml.XPath.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\vbc.exe
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\vbc.exe.config
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\vbc.rsp
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\VBCSCompiler.exe
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\roslyn\VBCSCompiler.exe.config
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\Antlr3.Runtime.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\EntityFramework.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\EntityFramework.SqlServer.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\Microsoft.Web.Infrastructure.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Helpers.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Mvc.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Razor.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.Deployment.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.Razor.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\Antlr3.Runtime.pdb
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\EntityFramework.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\EntityFramework.SqlServer.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Razor.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.Deployment.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Webpages.Razor.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Helpers.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\System.Web.Mvc.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Razor.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Webpages.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Helpers.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\bin\ru\System.Web.Mvc.resources.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\BSTU\PIS-3c6s\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\BSTU\PIS-3c6s\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+D:\BSTU\PIS-3c6s\LR4\LR4\obj\Debug\LR4.dll
+D:\BSTU\PIS-3c6s\LR4\LR4\obj\Debug\LR4.pdb

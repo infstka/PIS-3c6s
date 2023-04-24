@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update Contact</title>
+</head>
+<body>
+    @foreach (var item in ViewBag.PhoneBooks)
+    {
+        if (item.Id == Int32.Parse(ViewBag.Id))
+        {
+            <form method="post" action="~/Dict/UpdateSave">
+                <label>Current ID: @ViewBag.Id</label> <input type="hidden" name="id" value="@ViewBag.Id" />
+                <br /><br />
+                <label>Enter lastname: </label> <input type="text" name="lastname" value="@item.LastName" />
+                <br /><br />
+                <label>Enter phone number: </label> <input type="text" name="phone" value="@item.Number" />
+                <br /><br />
+                <input type="submit" value="UPDATE" />
+            </form>
+        }
+    }
+</body>
+</html>
