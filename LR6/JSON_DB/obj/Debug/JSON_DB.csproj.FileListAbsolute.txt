@@ -1,0 +1,296 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\obj\Debug\JSON_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\netstandard.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.AppContext.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Collections.Concurrent.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Collections.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Collections.NonGeneric.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Collections.Specialized.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ComponentModel.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ComponentModel.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ComponentModel.TypeConverter.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Console.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Data.Common.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.Contracts.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.Debug.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.Process.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.Tools.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.TraceSource.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Diagnostics.Tracing.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Drawing.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Dynamic.Runtime.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Globalization.Calendars.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Globalization.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Globalization.Extensions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.Compression.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.FileSystem.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.FileSystem.Watcher.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.IsolatedStorage.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.MemoryMappedFiles.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.Pipes.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Linq.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Linq.Expressions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Linq.Parallel.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Linq.Queryable.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.NameResolution.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.NetworkInformation.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Ping.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Requests.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Security.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.Sockets.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.WebHeaderCollection.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.WebSockets.Client.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Net.WebSockets.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ObjectModel.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Reflection.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Reflection.Extensions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Reflection.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Resources.Reader.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Resources.ResourceManager.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Resources.Writer.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Extensions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Handles.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.InteropServices.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Numerics.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Serialization.Formatters.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Serialization.Json.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Serialization.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.Serialization.Xml.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Claims.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Cryptography.Csp.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.Principal.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Security.SecureString.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encoding.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encoding.Extensions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.RegularExpressions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Overlapped.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Parallel.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Thread.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.ThreadPool.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Timer.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.ReaderWriter.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.XDocument.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.XmlDocument.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.XmlSerializer.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.XPath.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csprojAssemblyReference.cache
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+C:\Users\macbook\Desktop\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+C:\Users\macbook\Desktop\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+C:\Users\macbook\Desktop\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.AssemblyReference.cache
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CoreCompileInputs.cache
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+D:\BSTU\PIS-3c6s\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb

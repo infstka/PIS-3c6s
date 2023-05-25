@@ -1,0 +1,27 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+\\Mac\Home\Documents\UNIK_3\Programming of servers\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+C:\Users\macbook\Desktop\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
