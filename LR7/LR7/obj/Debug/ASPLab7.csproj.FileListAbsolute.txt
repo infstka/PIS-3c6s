@@ -1,0 +1,431 @@
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\obj\Debug\ASPLab7.csproj.AssemblyReference.cache
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\obj\Debug\ASPLab7.csproj.CoreCompileInputs.cache
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\ASPLab7.dll.config
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\ASPLab7.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\ASPLab7.pdb
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csc.exe
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csc.exe.config
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csc.rsp
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csi.exe
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csi.exe.config
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\csi.rsp
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.AppContext.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Console.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.IO.Compression.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Net.Http.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.ValueTuple.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\vbc.exe
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\vbc.exe.config
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\vbc.rsp
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\VBCSCompiler.exe
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Antlr3.Runtime.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\EntityFramework.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\EntityFramework.SqlServer.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Newtonsoft.Json.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Owin.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Helpers.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Mvc.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Optimization.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Razor.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.Razor.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\WebGrease.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Helpers.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Mvc.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Optimization.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.Razor.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\System.Web.WebPages.Razor.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Newtonsoft.Json.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Antlr3.Runtime.pdb
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\EntityFramework.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\EntityFramework.SqlServer.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\obj\Debug\ASPLab7.dll
+C:\Users\A.Mikhalkevich\source\repos\ASPLab7\ASPLab7\obj\Debug\ASPLab7.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\ASPLab7.dll.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\ASPLab7.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\ASPLab7.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csc.exe
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csc.rsp
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csi.exe
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\csi.rsp
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\EntityFramework.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Owin.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\WebGrease.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\EntityFramework.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\obj\Debug\ASPLab7.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\obj\Debug\ASPLab7.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\obj\Debug\ASPLab7.csproj.CopyComplete
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\obj\Debug\ASPLab7.dll
+C:\Users\User\Documents\Study_6sem\ПИС\Labs\ASPLab7\ASPLab7\obj\Debug\ASPLab7.pdb
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\ASPLab7.dll.config
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\ASPLab7.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\ASPLab7.pdb
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csc.exe
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csi.exe
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\EntityFramework.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Owin.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\WebGrease.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\EntityFramework.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\obj\Debug\ASPLab7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\obj\Debug\ASPLab7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\obj\Debug\ASPLab7.csproj.CopyComplete
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\obj\Debug\ASPLab7.dll
+C:\Users\User\Desktop\07. MVC_Identity\ASPLab7\obj\Debug\ASPLab7.pdb
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\ASPLab7.dll.config
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\ASPLab7.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\ASPLab7.pdb
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csc.exe
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csc.exe.config
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csc.rsp
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csi.exe
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csi.exe.config
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\csi.rsp
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.AppContext.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Collections.Immutable.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Console.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Globalization.Calendars.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.IO.Compression.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.IO.FileSystem.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Net.Http.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Net.Sockets.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Reflection.Metadata.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.ValueTuple.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Xml.XPath.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\vbc.exe
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\vbc.exe.config
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\vbc.rsp
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\VBCSCompiler.exe
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\roslyn\VBCSCompiler.exe.config
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Antlr3.Runtime.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\EntityFramework.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\EntityFramework.SqlServer.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Google.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Web.Infrastructure.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Newtonsoft.Json.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Owin.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Helpers.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Mvc.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Optimization.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Razor.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.Deployment.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.Razor.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\WebGrease.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Helpers.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Mvc.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Optimization.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.Razor.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.Deployment.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\System.Web.WebPages.Razor.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Newtonsoft.Json.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Antlr3.Runtime.pdb
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\EntityFramework.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\EntityFramework.SqlServer.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Google.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\obj\Debug\ASPLab7.csproj.AssemblyReference.cache
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\obj\Debug\ASPLab7.csproj.CoreCompileInputs.cache
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\obj\Debug\ASPLab7.csproj.CopyComplete
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\obj\Debug\ASPLab7.dll
+D:\BSTU\PIS-3c6s\labSeven\ASPLab7\obj\Debug\ASPLab7.pdb
