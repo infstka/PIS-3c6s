@@ -1,0 +1,367 @@
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\DLLEntity.dll.config
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\EntityFramework.dll
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\EntityFramework.xml
+E:\Program Files\ASP\ASP6.2\DLLEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Program Files\ASP\ASP6.2\DLLEntity\obj\Debug\DLLEntity.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP6.2\DLLEntity\obj\Debug\DLLEntity.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP6.2\DLLEntity\obj\Debug\DLLEntity.csproj.CopyComplete
+E:\Program Files\ASP\ASP6.2\DLLEntity\obj\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP6.2\DLLEntity\obj\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP7.2\DLLEntity\obj\Debug\DLLEntity.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP7.2\DLLEntity\obj\Debug\DLLEntity.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7.2\DLLEntity\obj\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP7.2\DLLEntity\obj\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\DLLEntity.dll.config
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\EntityFramework.dll
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\EntityFramework.xml
+E:\Program Files\ASP\ASP7.2\DLLEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Program Files\ASP\ASP7.2\DLLEntity\obj\Debug\DLLEntity.csproj.CopyComplete
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\DLLEntity.dll.config
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP8\DLLEntity\obj\Debug\DLLEntity.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP8\DLLEntity\obj\Debug\DLLEntity.csproj.CopyComplete
+E:\Program Files\ASP\ASP8\DLLEntity\obj\Debug\DLLEntity.dll
+E:\Program Files\ASP\ASP8\DLLEntity\obj\Debug\DLLEntity.pdb
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\netstandard.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.AppContext.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.Concurrent.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.NonGeneric.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.Specialized.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ComponentModel.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Console.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Data.Common.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Debug.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Process.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Tools.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Drawing.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Dynamic.Runtime.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Globalization.Calendars.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Globalization.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Globalization.Extensions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.Compression.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.Pipes.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Linq.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Linq.Expressions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Linq.Parallel.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Linq.Queryable.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Http.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.NameResolution.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.NetworkInformation.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Ping.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Requests.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Security.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.Sockets.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Net.WebSockets.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ObjectModel.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Reflection.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Reflection.Extensions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Reflection.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Resources.Reader.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Resources.ResourceManager.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Resources.Writer.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Extensions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Handles.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.InteropServices.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Numerics.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Claims.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.Principal.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Security.SecureString.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Text.Encoding.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Text.RegularExpressions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Overlapped.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Thread.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.ThreadPool.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Timer.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ValueTuple.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.XDocument.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.XmlDocument.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.XPath.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Identity.Client.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Buffers.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.Immutable.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Memory.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Numerics.Vectors.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Microsoft.Identity.Client.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Buffers.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Collections.Immutable.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Memory.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Numerics.Vectors.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Remotion.Linq.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Data.SqlClient.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Interactive.Async.dll
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\Remotion.Linq.xml
+E:\Program Files\ASP\ASP8\DLLEntity\bin\Debug\System.Interactive.Async.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\DLLEntity.dll.config
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\DLLEntity.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\DLLEntity.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\netstandard.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.AppContext.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.Concurrent.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.NonGeneric.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.Specialized.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ComponentModel.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ComponentModel.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Console.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Data.Common.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Contracts.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Debug.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Process.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Tools.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.Tracing.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Drawing.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Dynamic.Runtime.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Globalization.Calendars.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Globalization.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Globalization.Extensions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.Compression.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.IsolatedStorage.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.Pipes.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Linq.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Linq.Expressions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Linq.Parallel.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Linq.Queryable.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Http.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.NameResolution.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.NetworkInformation.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Ping.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Requests.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Security.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.Sockets.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.WebSockets.Client.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Net.WebSockets.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ObjectModel.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Reflection.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Reflection.Extensions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Reflection.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Resources.Reader.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Resources.ResourceManager.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Resources.Writer.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Extensions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Handles.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.InteropServices.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Numerics.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Claims.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.Principal.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Security.SecureString.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Text.Encoding.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Text.RegularExpressions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Overlapped.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Thread.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.ThreadPool.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Timer.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ValueTuple.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.ReaderWriter.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.XDocument.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.XmlDocument.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.XmlSerializer.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.XPath.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Identity.Client.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Remotion.Linq.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Buffers.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.Immutable.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Data.SqlClient.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Interactive.Async.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Memory.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Numerics.Vectors.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Microsoft.Identity.Client.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\Remotion.Linq.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Buffers.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Collections.Immutable.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Interactive.Async.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Memory.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Numerics.Vectors.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\obj\Debug\DLLEntity.csprojAssemblyReference.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\obj\Debug\DLLEntity.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\obj\Debug\DLLEntity.csproj.CopyComplete
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\obj\Debug\DLLEntity.dll
+D:\ЮЛЯ\ПИС\ASP_8\ASP8\DLLEntity\obj\Debug\DLLEntity.pdb

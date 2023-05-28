@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <h3>Форма обновления объекта</h3>
+        <form method="post" action="./UpdateSave">
+            <input type="hidden" name="Id" value="@ViewBag.Object.Id" />
+            <table>
+                <tr>
+                    <td><p>Введите ФИО </p></td>
+                    <td><input type="text" name="FIO" value="@ViewBag.Object.FIO"/> </td>
+                </tr>
+                <tr>
+                    <td><p>Введите телефон :</p></td>
+                    <td>
+                        <input type="text" name="Telephone" value="@ViewBag.Object.Telephone"/>
+                    </td>
+                </tr>
+                <tr><td><input type="submit" value="Отправить" /> </td><td></td></tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><p>ФИО</p></td>
+                <td><p>Телефон</p></td>
+                <td></td>
+                <td></td>
+            </tr>
+            @foreach (var b in ViewBag.Objects)
+            {
+                <tr>
+                    <td><p>@b.FIO</p></td>
+                    <td><p>@b.Telephone</p></td>
+                    <td><p><a href="/Home/Update?id=@b.Id">Изменить</a></p></td>
+                    <td><p><a href="/Home/Delete?id=@b.Id">Удалить</a></p></td>
+                </tr>
+            }
+        </table>
+    </div>
+    <p><a href="/Home/Add">Добавить</a></p>
+</body>
+</html>

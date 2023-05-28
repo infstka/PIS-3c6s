@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <h3>Форма добавления объекта</h3>
+        <form method="post" action="./AddSave">           
+            <table>
+                <tr>
+                    <td><p>Введите id</p></td>
+                    <td><input type="int" name="Id" /> </td>
+                </tr>
+                <tr>
+                    <td><p>Введите свое ФИО </p></td>
+                    <td><input type="text" name="FIO" /> </td>
+                </tr>
+                <tr>
+                    <td><p>Введите телефон :</p></td>
+                    <td>
+                        <input type="text" name="Telephone" />
+                    </td>
+                </tr>
+                <tr><td><input type="submit" value="Отправить" /> </td><td></td></tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>
