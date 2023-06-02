@@ -26,7 +26,7 @@ namespace LR8b
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.IncludeXmlComments(@"D:\BSTU\ще нашел\ASP_6sem-main\лабы\08. Swagger\LR8b\Swagger.xml");
+                c.IncludeXmlComments(@"C:\Users\Admin\Downloads\PIS-3c6s-main\LR8\LR8b\LR8b\Swagger.xml");
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "LR8b", Version = "v1" });
             });
 
