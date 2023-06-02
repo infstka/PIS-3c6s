@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ASPLab7
+namespace LR7
 {
     public class BundleConfig
     {

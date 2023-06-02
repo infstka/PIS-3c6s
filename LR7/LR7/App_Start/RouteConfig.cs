@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ASPLab7
+namespace LR7
 {
     public class RouteConfig
     {

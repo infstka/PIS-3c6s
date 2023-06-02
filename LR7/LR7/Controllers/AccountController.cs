@@ -8,10 +8,10 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using ASPLab7.Models;
+using LR7.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 
-namespace ASPLab7.Controllers
+namespace LR7.Controllers
 {
     [Authorize]
     public class AccountController : Controller

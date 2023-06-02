@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using ASPLab7.Models;
+using LR7.Models;
 
-namespace ASPLab7.Controllers
+namespace LR7.Controllers
 {
     [Authorize]
     public class ManageController : Controller

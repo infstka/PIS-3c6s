@@ -1,4 +1,4 @@
-using ASPLab7.Models;
+using LR7.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -8,7 +8,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace ASPLab7
+namespace LR7
 {
     public class MvcApplication : HttpApplication
     {

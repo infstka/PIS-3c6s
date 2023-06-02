@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ASPLab7.Models;
+using LR7.Models;
 
-namespace ASPLab7
+namespace LR7
 {
     public partial class Startup
     {

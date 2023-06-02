@@ -6,7 +6,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace ASPLab7.Models
+namespace LR7.Models
 {
     //используется для инициализации базы данных приложения и заполнения ее начальными данными
     public class AppDbInitializer:DropCreateDatabaseIfModelChanges<ApplicationDbContext>

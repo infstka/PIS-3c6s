@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(ASPLab7.Startup))]
-namespace ASPLab7
+[assembly: OwinStartupAttribute(typeof(LR7.Startup))]
+namespace LR7
 {
     public partial class Startup
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace ASPLab7.Models
+namespace LR7.Models
 {
     public enum AccountType
     {
